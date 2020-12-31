@@ -1,0 +1,2 @@
+# collatz-project
+Using functions
